@@ -1,0 +1,1030 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f70598d3-3868-4b80-966d-f599ea42d25d")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 115.57 119.38) (xy 119.38 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00e9205e-67e0-4ac9-9d07-9bc4400e340e")
+	)
+	(wire
+		(pts
+			(xy 160.02 81.28) (xy 163.83 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3169d246-968f-4ab0-a20b-d0f2d99aa037")
+	)
+	(wire
+		(pts
+			(xy 115.57 78.74) (xy 119.38 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3addf828-3802-41b2-9ab3-5d21b9edf03e")
+	)
+	(wire
+		(pts
+			(xy 115.57 59.69) (xy 119.38 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e007026-d1fc-4486-8a77-d5adfa6542b1")
+	)
+	(wire
+		(pts
+			(xy 160.02 91.44) (xy 163.83 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f64ccb4-32ac-48ac-a790-4dd2906c3323")
+	)
+	(wire
+		(pts
+			(xy 115.57 88.9) (xy 119.38 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40dd2282-830e-4965-a885-a3faf084ba31")
+	)
+	(wire
+		(pts
+			(xy 115.57 129.54) (xy 119.38 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53ae643f-34fc-46bf-b578-b28f296ec1f9")
+	)
+	(wire
+		(pts
+			(xy 160.02 101.6) (xy 163.83 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6424a1f9-848b-42a6-8d47-05eac702544d")
+	)
+	(wire
+		(pts
+			(xy 115.57 109.22) (xy 119.38 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "702705dc-1d35-4e37-ac48-478e5d06bad3")
+	)
+	(wire
+		(pts
+			(xy 160.02 60.96) (xy 163.83 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76d6c0b8-9d84-45ce-a099-7ef7d36c4a80")
+	)
+	(wire
+		(pts
+			(xy 115.57 68.58) (xy 119.38 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88554cca-ad4c-498f-b43f-7bd1e1266489")
+	)
+	(wire
+		(pts
+			(xy 115.57 99.06) (xy 119.38 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a09281e8-fc78-473b-a465-c6a2ea50195e")
+	)
+	(wire
+		(pts
+			(xy 160.02 111.76) (xy 163.83 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8e5d04f-fb30-4bee-929f-ae4c22f281aa")
+	)
+	(wire
+		(pts
+			(xy 160.02 71.12) (xy 163.83 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d62eb5b6-2264-40de-8aab-cde7675df0e6")
+	)
+	(hierarchical_label "PWM_7"
+		(shape input)
+		(at 115.57 129.54 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "00bd52fd-be76-4486-bcd5-b7372bbb0f76")
+	)
+	(hierarchical_label "PWM_3"
+		(shape input)
+		(at 115.57 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "068e645d-7a67-4ef1-adf4-a2ad25f50249")
+	)
+	(hierarchical_label "PWM_0"
+		(shape input)
+		(at 115.57 59.69 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1e3113d7-c6c6-4ad6-b350-960cb1bd2e8b")
+	)
+	(hierarchical_label "PWM_12"
+		(shape input)
+		(at 160.02 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3e82af92-7da8-4659-b40a-503b6c3e7cb4")
+	)
+	(hierarchical_label "PWM_10"
+		(shape input)
+		(at 160.02 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "46cc977b-58e9-4f22-8608-dab69dc64a7c")
+	)
+	(hierarchical_label "PWM_2"
+		(shape input)
+		(at 115.57 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "53393916-d2da-42e4-8960-a1d0d35fc935")
+	)
+	(hierarchical_label "PWM_6"
+		(shape input)
+		(at 115.57 119.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5f192873-0d80-46af-8ed1-281fa275a5ae")
+	)
+	(hierarchical_label "PWM_8"
+		(shape input)
+		(at 160.02 60.96 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6e878a6f-4898-4407-aab3-3f9a5c29a2a9")
+	)
+	(hierarchical_label "PWM_1"
+		(shape input)
+		(at 115.57 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "948a06bc-1476-40a8-9b1c-173a18ed2a6a")
+	)
+	(hierarchical_label "PWM_11"
+		(shape input)
+		(at 160.02 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9e7c0fff-d3db-4c21-9c6e-69860d544a5b")
+	)
+	(hierarchical_label "PWM_5"
+		(shape input)
+		(at 115.57 109.22 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a25aaf98-fdef-4188-8a48-37912c42d2d7")
+	)
+	(hierarchical_label "PWM_4"
+		(shape input)
+		(at 115.57 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aa2555e8-480e-4a6d-85b1-bb98fbd2d0f4")
+	)
+	(hierarchical_label "PWM_13"
+		(shape input)
+		(at 160.02 111.76 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b8697e02-7044-4a1d-a28e-65d7716526ab")
+	)
+	(hierarchical_label "PWM_9"
+		(shape input)
+		(at 160.02 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e8bfb1f0-7429-4055-85f4-27e60d7e7671")
+	)
+	(sheet
+		(at 119.38 58.42)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "071bb9ad-1a46-4a0c-b3f7-74d8d9f132f2")
+		(property "Sheetname" "Heater"
+			(at 119.38 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 119.38 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 119.38 59.69 180)
+			(uuid "b346dc71-8e2b-4580-b19a-4a96b6d4084d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "18")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 163.83 110.49)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0c484480-076b-40b7-9f88-5040a96ccf01")
+		(property "Sheetname" "Heater13"
+			(at 163.83 109.7784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 163.83 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 163.83 111.76 180)
+			(uuid "6398f418-58fe-4408-9355-6beb326e1804")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "31")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 163.83 59.69)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0e0577ae-e35b-4673-8cb1-ac4ac8adcb12")
+		(property "Sheetname" "Heater8"
+			(at 163.83 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 163.83 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 163.83 60.96 180)
+			(uuid "a6fff9ac-58f6-4d9d-99f4-bd4ca6ab7f15")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "26")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 77.47)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "35876e59-fcb9-4d6a-ade5-5cac9116473d")
+		(property "Sheetname" "Heater2"
+			(at 119.38 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 119.38 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 119.38 78.74 180)
+			(uuid "cbc2f21c-85ee-4328-8af7-0b2aa8ba0c3e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 67.31)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3c78e563-3b65-408a-b835-75f609bb47cc")
+		(property "Sheetname" "Heater1"
+			(at 119.38 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 119.38 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 119.38 68.58 180)
+			(uuid "90e5deb8-245f-44b2-8af0-b9531f46f032")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 118.11)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3cdc0daf-d86a-4aaf-b7dc-211ca71cb20a")
+		(property "Sheetname" "Heater6"
+			(at 119.38 117.3984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 119.38 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 119.38 119.38 180)
+			(uuid "074b1add-bc7b-4044-85d7-0c5e313bb94d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "24")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 87.63)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "416c1fac-cf6d-4489-b237-8db1cd01a70b")
+		(property "Sheetname" "Heater3"
+			(at 119.38 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 119.38 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 119.38 88.9 180)
+			(uuid "f70fd2a4-db43-43e0-a9de-4cd46d95f7e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "21")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 128.27)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "41ad0687-b7ef-4440-a490-cf01cb25b538")
+		(property "Sheetname" "Heater7"
+			(at 119.38 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 119.38 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 119.38 129.54 180)
+			(uuid "07e41a9a-569d-49e4-a3ba-b75dbb6f5b8c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "25")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 163.83 100.33)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7ebc4bf7-50fc-4bf2-a001-ea1711f945e9")
+		(property "Sheetname" "Heater12"
+			(at 163.83 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 163.83 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 163.83 101.6 180)
+			(uuid "5ac1ec52-6381-416d-b67d-bcc25bcbc69f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "30")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 163.83 90.17)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "94a54c48-42a5-4810-a1f5-6b1d5606ae07")
+		(property "Sheetname" "Heater11"
+			(at 163.83 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 163.83 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 163.83 91.44 180)
+			(uuid "2e7aaa8e-2e4c-4863-abd7-8e0a0426a222")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "29")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 97.79)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "afcc545f-632a-402f-8759-d915a86730b7")
+		(property "Sheetname" "Heater4"
+			(at 119.38 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 119.38 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 119.38 99.06 180)
+			(uuid "331014ae-2155-414e-a8e2-1393f533ddee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "22")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 163.83 80.01)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c14e6908-97ba-4d4f-9334-6fb9d85b0c34")
+		(property "Sheetname" "Heater10"
+			(at 163.83 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 163.83 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 163.83 81.28 180)
+			(uuid "7d8005c5-956a-4fdc-aaad-cccf3c66b5bb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "28")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 163.83 69.85)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c69798e6-03c5-47c2-8cde-6e6c1372c9a2")
+		(property "Sheetname" "Heater9"
+			(at 163.83 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 163.83 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 163.83 71.12 180)
+			(uuid "f1f1e134-b061-467e-9d22-c0f3d44bdb45")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "27")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 107.95)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cb043d8b-f1c4-46fd-818e-b145f2cb6e2f")
+		(property "Sheetname" "Heater5"
+			(at 119.38 107.2384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Heater.kicad_sch"
+			(at 119.38 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWM" input
+			(at 119.38 109.22 180)
+			(uuid "8a6c05c2-1be5-44a7-9e20-79715ce36928")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "500308-A_PCBA-TUB"
+				(path "/3517744d-988e-4a4e-a0d2-68e8d779ca14/2c7267f6-064e-4ade-b618-c60635b800a2"
+					(page "23")
+				)
+			)
+		)
+	)
+)
